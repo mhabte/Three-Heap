@@ -1,5 +1,6 @@
 import java.util.*;
 
+//Used for testing ThreeHeap.java methods
 public class Test {
 	public static void main(String[] args) {
 		ThreeHeap test = new ThreeHeap();
